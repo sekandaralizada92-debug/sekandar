@@ -1,2 +1,1 @@
-print("hello")
-print("my name is sekandar alizada")
+print("I dleated all of the code")
